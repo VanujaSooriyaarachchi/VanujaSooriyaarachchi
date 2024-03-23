@@ -1,7 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://vanujasooriyaarachchi.io)
+[![MasterHead](https://camo.githubusercontent.com/1cc4a09c2e1425ea8299bad1e673df6139b484072801bede9a1d098a24981328/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966)](https://vanujasooriyaarachchi.io)
 <h1 align="center">Hi 👋, I'm Vanuja Sooriyaarachchi</h1>
 <h3 align="center">A passionate Artificial Intelligence & Data Science Undergraduate</h3>
-<img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
+<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanujasooriyaarachchi&label=Profile%20views&color=0e75b6&style=flat" alt="vanujasooriyaarachchi" /> </p>
 
