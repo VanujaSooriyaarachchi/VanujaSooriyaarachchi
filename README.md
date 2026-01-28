@@ -10,9 +10,11 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/vanujasooriyaarachchi/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
 </a>
 </p>
+
+📧 **Email:** vanuja.soori@gmail.com
 
 ---
 ### 🛠️ Languages and Tools
