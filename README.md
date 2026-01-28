@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vanuja Sooriyaarachchi</h1>
-<h3 align="center">AI & Data Science | Computer Vision | LLM Applications | Edge AI</h3>
 
 <p align="center">
-Building practical machine learning systems with focus on vision, language models, and efficient deployment.
+Building practical machine learning systems with a focus on vision, language models, and efficient deployment.
 </p>
 
 <p align="left">
@@ -16,9 +15,6 @@ Building practical machine learning systems with focus on vision, language model
 <p align="left">
 <a href="https://www.linkedin.com/in/vanujasooriyaarachchi/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://medium.com/@vanujasooriyaarachchi" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
 </a>
 </p>
 
