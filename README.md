@@ -31,7 +31,7 @@ Building practical machine learning systems with a focus on vision, language mod
 <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/></a>
 
 <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40"/></a>
-<a href="https://flask.palletsprojects.com/"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40"/></a>
+<a href="https://flask.palletsprojects.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/></a>
 
 <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
 <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
